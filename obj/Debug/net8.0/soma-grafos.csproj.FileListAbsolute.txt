@@ -1,0 +1,15 @@
+C:\Users\Yuri\Documents\projetos\soma-grafos\bin\Debug\net8.0\soma-grafos.exe
+C:\Users\Yuri\Documents\projetos\soma-grafos\bin\Debug\net8.0\soma-grafos.deps.json
+C:\Users\Yuri\Documents\projetos\soma-grafos\bin\Debug\net8.0\soma-grafos.runtimeconfig.json
+C:\Users\Yuri\Documents\projetos\soma-grafos\bin\Debug\net8.0\soma-grafos.dll
+C:\Users\Yuri\Documents\projetos\soma-grafos\bin\Debug\net8.0\soma-grafos.pdb
+C:\Users\Yuri\Documents\projetos\soma-grafos\obj\Debug\net8.0\soma-grafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuri\Documents\projetos\soma-grafos\obj\Debug\net8.0\soma-grafos.AssemblyInfoInputs.cache
+C:\Users\Yuri\Documents\projetos\soma-grafos\obj\Debug\net8.0\soma-grafos.AssemblyInfo.cs
+C:\Users\Yuri\Documents\projetos\soma-grafos\obj\Debug\net8.0\soma-grafos.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Documents\projetos\soma-grafos\obj\Debug\net8.0\soma-grafos.sourcelink.json
+C:\Users\Yuri\Documents\projetos\soma-grafos\obj\Debug\net8.0\soma-grafos.dll
+C:\Users\Yuri\Documents\projetos\soma-grafos\obj\Debug\net8.0\refint\soma-grafos.dll
+C:\Users\Yuri\Documents\projetos\soma-grafos\obj\Debug\net8.0\soma-grafos.pdb
+C:\Users\Yuri\Documents\projetos\soma-grafos\obj\Debug\net8.0\soma-grafos.genruntimeconfig.cache
+C:\Users\Yuri\Documents\projetos\soma-grafos\obj\Debug\net8.0\ref\soma-grafos.dll
